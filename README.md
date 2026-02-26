@@ -1,4 +1,8 @@
-## Hi there 👋
+## 🚀 Tencologias y Lenguajes
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,django,angular,spring,docker,linux,postgres" />
+</p>
 
 <!--
 **jerson1210/jerson1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
